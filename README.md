@@ -1,5 +1,9 @@
 # Data-Assimilation-Fundamentals
-This repository is a resource complementary to the book: Data Assimilation Fundamental: A unified formulation for state and parameter estimation
+
+This repository is a resource complementary to the Springer book: Data Assimilation Fundamental: A unified formulation for state and parameter estimation
+
+The book is Open Access and is available from 
+<a href="https://link.springer.com/book/10.1007/978-3-030-96709-3">https://link.springer.com/book/10.1007/978-3-030-96709-3</a>
 
 <p align="center">
 <img src="pics/bookcover.png" width="800"> 
