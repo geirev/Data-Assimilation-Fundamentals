@@ -9,3 +9,4 @@ The book is Open Access and is available from
 <img src="pics/bookcover.png" width="800"> 
 </p>
 
+Please rise an issue if you discover typos or errors in the book, or just wish to discuss one of the book's topics.
