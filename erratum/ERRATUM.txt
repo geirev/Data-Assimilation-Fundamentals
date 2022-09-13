@@ -1,0 +1,20 @@
+Typos and errors in the book:
+
+
+Eq. 4.41 "++" should be "+"  : fixed
+
+Addeed indices "4DVar!strong constraint", 4DVar!weak constraint", "variational methods", "Euler-Lagrange equations", "En4DVar".
+
+Sec. 9.3 "Fokker-Plank" should be "Fokker-Planck" : fixed
+
+In Approximation 5: The reference to Eq. (6.1) should be Eq. (3.11).
+
+Eq 6.33 and 6.38 and once in the text: error in placement of ^a on C^a_{zz}: fixed in definition of \Czza in extras.tex
+
+Eq. 6.22:  Added definition of Hessian as Del Del J =
+
+Eqs. 6.29 and 6.22: wrong font on transpose superscript ^T -> ^\rmT
+
+Eq. 6.30: Changed constant to \textrm{constant}
+
+Eq. 6.31: \calJ (\bmz^\rma)  -> \calJ (\bmz)
