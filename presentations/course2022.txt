@@ -10,6 +10,7 @@ Lecture 2:
    Chapter 7: (RML sampling)
    Chapter 8.1-8.6 (ensemble methods EnKF and EnRML)
 
+Additional stuff
    Chapter 11: A summary of approxiations and methods.
    Chapter 14: EnKF with advection equation
    Chapter 15: EnKF, EnKS, ES with Lorenz equations
