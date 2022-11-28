@@ -1,17 +1,13 @@
-Lecture 1:
-   Scalar case:
+   Scalar case: presentations/evensen2009_scalar_ex.pdf
    Chapter 1: Introduction
    Chapter 2: Bayes and problem formulation
-   Chapter 3: MAP solution and Gauss Newton iterations
-   Chapter 4; 4.1 (formulation of weak constraint problem)
-
-Lecture 2:
+   Chapter 3: MAP solution and Gauss-Newton iterations
+   Chapter 4: 4.1
+   Chapter 5: 5.1 and 5.2
    Chapter 6: Kalman Filters
-   Chapter 7: (RML sampling)
-   Chapter 8.1-8.6 (ensemble methods EnKF and EnRML)
-
-Additional stuff
+   Chapter 7: RML sampling
+   Chapter 8: 8.1-8.6 (ensemble methods EnKF and EnRML)
    Chapter 11: A summary of approxiations and methods.
    Chapter 14: EnKF with advection equation
    Chapter 15: EnKF, EnKS, ES with Lorenz equations
-   Figures 17.3 and 17.4 to illustrate stong vs weak constraint
+   Figures 17.3 and 17.4 to illustrate strong vs. weak constraint
