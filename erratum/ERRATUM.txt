@@ -21,6 +21,9 @@ Eq. 6.31: \calJ (\bmz^\rma)  -> \calJ (\bmz)
 
 After Eq. 8.25: superscript i on \bmOmega
 
+Eq: 8.28: the division on the \sqrt{N-1} in the middle line should be removed
+First line following Eq. 8.28:   where we have used $\bmW^i/\sqrt{N-1} = \bmPI \bmW^i$, which we get from Eq.~(\ref{eq:Wi}) using $\bmS^\rmT/\sqrt{N-1}=\bmPI\bmS^\rmT$.
+
 Algorithm 7 lines 2-4: input D_l inside loop over assimilation windows.
 Algorithm 8 lines 2-4: input d and C_dd inside loop over assimilation windows.
 Algorithm 8 line 5: Loop over MDA steps
@@ -28,6 +31,8 @@ Algorithm 8 line 19: It should be Z=X_K
 All algorithms should use a comma and not a colon in for loops, e.g., for i=1,N. Applies to Algorithms 1, 2, 3, and 4.
 
 Eq 8.52 and around  ^+ changed to ^\dagger
+
+10.4.1: first line Space missing in Hammiletal and Bishopetal.
 
 Sec 13.5 (sixt line) ^+ changed to ^\dagger
 
