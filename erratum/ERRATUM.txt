@@ -1,5 +1,6 @@
 Typos and errors in the book:
 
+Eq. 2.21 2.22 Missing the past measurements in the prior for the last update   f(z_L | d_{L-1}, \ldots, d_1)
 
 Eq. 4.41 "++" should be "+"  : fixed
 
@@ -35,4 +36,7 @@ Eq 8.52 and around  ^+ changed to ^\dagger
 10.4.1: first line Space missing in Hammiletal and Bishopetal.
 
 Sec 13.5 (sixt line) ^+ changed to ^\dagger
+
+
+Eq. 18.2 sin(x) should be sin(pi*x)
 
