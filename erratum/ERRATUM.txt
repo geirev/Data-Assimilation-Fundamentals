@@ -33,7 +33,23 @@ All algorithms should use a comma and not a colon in for loops, e.g., for i=1,N.
 
 Eq 8.52 and around  ^+ changed to ^\dagger
 
-10.4.1: first line Space missing in Hammiletal and Bishopetal.
+Eq: 9.40: (ln f/f +1)
+
+Eq: 9.41: (1+ln f/f) and a minus sign in front
+
+Eq: 9.42: should read:
+- \int f_s ( m_s \cdot \nabla_z ln f(z|d) + \nabla_z \cdot m_s ) dz
+
+Eq: 9.44: should read:
+- < \int f_s ( K(.,z) \cdot \nabla_z ln f(z|d) + \nabla_z \cdot K(.,z) ) dz , m_s(.) >
+
+Eq: 9.46: should read
+-  \int f_s ( K(.,z) \cdot \nabla_z ln f(z|d) + \nabla_z \cdot K(.,z) ) dz
+
+Eq: 9.49 should read:
+- B 1/N sum  ( K(zj,zl) \cdot \nabla_zl ln f(zl|d) + \nabla_zl \cdot K(zj,zl) )
+
+10.4.1: first line Space missing in Hammil etal and Bishop etal.
 
 Sec 13.5 (sixt line) ^+ changed to ^\dagger
 
