@@ -53,6 +53,8 @@ Eq: 9.49 should read:
 
 Sec 13.5 (sixt line) ^+ changed to ^\dagger
 
+Chap 16.1 $\beta=8/3$
+
 
 Eq. 18.2 sin(x) should be sin(pi*x)
 
